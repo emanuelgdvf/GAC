@@ -1006,3 +1006,6 @@ footer {
   .footer-inner { justify-content: center; text-align: center; }
   .cat-grid { grid-template-columns: 1fr; }
 }
+.biz-initials i {
+  font-size: 18px;
+}
