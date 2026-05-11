@@ -1,6 +1,5 @@
 # Guia Apodi Connect-RN
-Este é o meu segundo site utilizando HTML,CSS e JavaScript. Começando a usar IA
-
+Este é o meu segundo site utilizando HTML,CSS e JavaScript.
 ## 🔗 Acesse
 (local)
 
