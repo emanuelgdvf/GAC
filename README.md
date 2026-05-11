@@ -9,8 +9,9 @@ Este é o meu segundo site utilizando HTML,CSS e JavaScript. Começando a usar I
 - CSS
 - JavaScript
 ## 📸 Preview
-<img width="1366" height="634" alt="gac1" src="https://github.com/user-attachments/assets/6ee9e1de-0691-4a5b-b612-b4a572de2a2f" />
-<img width="1366" height="635" alt="gac2" src="https://github.com/user-attachments/assets/09b0d419-d67a-4fe1-ad82-c8364ce5beac" />
+<img width="1366" height="636" alt="image" src="https://github.com/user-attachments/assets/4a8d203f-dfec-4d1e-88e6-a0bf0ab33390" />
+<img width="1366" height="633" alt="image" src="https://github.com/user-attachments/assets/398a268c-ba66-4e8b-97f6-978be1cdbfa8" />
+
 
 
 
