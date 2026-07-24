@@ -4,7 +4,7 @@ const dados = {
   novo: { nome:'Novo Sabor', cat:'Petiscaria', local:'Apodi - RN', insta:'https://instagram.com/petiscaria_novo_sabor_', zap:'https://wa.me/5584994208328', loca:'' },
   aabb: { nome:'AABB', cat:'Restaurante', local:'Apodi - RN', insta:'https://instagram.com/aabbapodi', zap:'https://wa.me/5584996340129', loca:'https://maps.google.com/?cid=13606427193244036249&entry=gps&g_st=aw' },
   lamp: { nome:'Lamparina', cat:'Pizzaria', local:'Apodi - RN', insta:'https://instagram.com/pizzaria_lamparina', zap:'https://wa.me/5584933332925', loca:'https://maps.app.goo.gl/42h5pPZNM7WsLEEC8' },
-  espi: { nome:'Espetinho Praxedes', cat:'Espetinho', local:'Apodi - RN', insta:'https://instagram.com/espetinhopraxedes', zap:'', loca:'https://maps.app.goo.gl/u3nWQcjSMaRXNU7w7' },
+  espi: { nome:'Espetinho Praxedes', cat:'Espetinho', local:'Apodi - RN', insta:'https://instagram.com/espetinhopraxedes', zap:'https://wa.me/55849', loca:'https://maps.app.goo.gl/u3nWQcjSMaRXNU7w7' },
   case: { nome:'Gostinho Caseiro', cat:'Comida Caseira', local:'Apodi - RN', insta:'https://instagram.com/gostinho_caseiroo', zap:'https://wa.me/5584991480186', loca:'' },
   para: { nome:'Paraíba Salgados', cat:'Salgados', local:'Apodi - RN', insta:'https://instagram.com/paraiba_salgados_apodi', zap:'https://wa.me/5584996469958', loca:'' },
   dssa: { nome:'DS Salgados', cat:'Salgados & Bolos', local:'Apodi - RN', insta:'https://instagram.com/delivery_salgadosbolos', zap:'https://wa.me/55849494343813', loca:'' },
@@ -33,6 +33,35 @@ const dados = {
   graf: { nome:'Gráfica Torres', cat:'Gráfica', local:'Apodi - RN', insta:'https://www.instagram.com/grafica_torres', zap:'', loca:'' },
   vale: { nome:'Construtora do Vale', cat:'Construtora', local:'Apodi - RN', insta:'https://www.instagram.com/construtoradovaleapodi', zap:'', loca:'' },
   melo: { nome:'RedeContMelo Apodi', cat:'Materiais', local:'Apodi - RN', insta:'https://www.instagram.com/redecontmeloapodi', zap:'', loca:'' },
+  quio: { nome:'Quiosque BB', cat:'Restaurante', local:'Apodi - RN', insta:'https://instagram.com/quiosquebembom', zap:'https://wa.me/5584994924323', loca:'' },
+  toco: { nome:'TôComFome', cat:'Restaurante', local:'Apodi - RN', insta:'https://instagram.com/tocomfomeapodi', zap:'https://wa.me/55849', loca:'' },
+  chef: { nome:'O Chef', cat:'Restaurante', local:'Apodi - RN', insta:'https://instagram.com/ochefmarmitaria_', zap:'https://wa.me/55849', loca:'' },
+  card: { nome:'Churrascaria Cardoso', cat:'Churrascaria', local:'Apodi - RN', insta:'https://instagram.com/churrascariacardoso', zap:'https://wa.me/55849', loca:'' },
+  flix: { nome:'Açaí Flix', cat:'Açaí', local:'Apodi - RN', insta:'https://instagram.com/acaiflix_burguer', zap:'https://wa.me/55849', loca:'' },
+  impe: { nome:'Império Açaí', cat:'Açaí', local:'Apodi - RN', insta:'https://instagram.com/imperio_acai', zap:'https://wa.me/55849', loca:'' },
+  mari: { nome:'Açaí da Maria', cat:'Açaí', local:'Apodi - RN', insta:'https://instagram.com/acaidamariaa_', zap:'https://wa.me/55849', loca:'' },
+  poin: { nome:'Point do Açaí', cat:'Açaí', local:'Apodi - RN', insta:'https://instagram.com/pointdoacaiapodi', zap:'https://wa.me/55849', loca:'' },
+  kane: { nome:'Kanecão', cat:'Restaurante', local:'Apodi - RN', insta:'https://instagram.com/kanecaoapodi', zap:'https://wa.me/55849', loca:'' },
+  dall: { nome:'Dallas Grill', cat:'Churrascaria', local:'Apodi - RN', insta:'https://instagram.com/dallasgrillapodi', zap:'https://wa.me/55849', loca:'' },
+  cusc: { nome:'Cuscuzeira Nogueira', cat:'Restaurante', local:'Apodi - RN', insta:'https://www.instagram.com/cuscuzerianogueira', zap:'https://wa.me/55849', loca:'' },
+  prim: { nome:'Churrascaria Primavera', cat:'Churrascaria', local:'Apodi - RN', insta:'https://instagram.com/churrascaria_primavera', zap:'https://wa.me/55849', loca:'' },
+  sush: { nome:'SushinCaza', cat:'Restaurante', local:'Apodi - RN', insta:'https://instagram.com/sushincaza', zap:'https://wa.me/55849', loca:'' },
+  bute: { nome:'Kurrupius', cat:'Restaurante', local:'Apodi - RN', insta:'https://instagram.com/buteco_kurrupius', zap:'https://wa.me/55849', loca:'' },
+  past: { nome:'Casa do Pastel', cat:'Pastelaria', local:'Apodi - RN', insta:'https://instagram.com/casa.do.pastel2', zap:'https://wa.me/55849', loca:'' },
+  boms: { nome:'Bom Sabor', cat:'Pizzaria', local:'Apodi - RN', insta:'https://instagram.com/pizzaria_bom_sabor_2025', zap:'https://wa.me/55849', loca:'' },
+  bras: { nome:'Espetinho na Brasa', cat:'Espetinho', local:'Apodi - RN', insta:'https://instagram.com/espetinhonabrasa8', zap:'https://wa.me/55849', loca:'' },
+  favo: { nome:'Favorita', cat:'Pizzaria', local:'Apodi - RN', insta:'https://instagram.com/_pizzariafavorita', zap:'https://wa.me/5584997059178', loca:'https://maps.google.com/?cid=5437069981054668234&entry=gps&g_st=aw' },
+  cear: { nome:'Ceará Autopeças', cat:'Autopeças', local:'Apodi - RN', insta:'https://www.instagram.com/cearaautopecas1', zap:'', loca:'' },
+  cham: { nome:'Chamagáspoty', cat:'Gás', local:'Apodi - RN', insta:'https://www.instagram.com/chamagaspoty', zap:'', loca:'' },
+  loja: { nome:'Lojão Detailer', cat:'Detailing', local:'Apodi - RN', insta:'https://www.instagram.com/lojaodetailer', zap:'', loca:'' },
+  apim: { nome:'Apodi Imports', cat:'Importados', local:'Apodi - RN', insta:'https://www.instagram.com/apodiimports', zap:'', loca:'' },
+  agri: { nome:'Agrícola Safra', cat:'Agrícola', local:'Apodi - RN', insta:'https://www.instagram.com/agricola_safra', zap:'', loca:'' },
+  gord: { nome:'Lava Jato do Gordinho', cat:'Lava Jato', local:'Apodi - RN', insta:'https://www.instagram.com/lavajatodogordinho0', zap:'', loca:'' },
+  ftur: { nome:'FTurismo Apodi', cat:'Turismo', local:'Apodi - RN', insta:'https://www.instagram.com/fturismo_apodi', zap:'', loca:'' },
+  uze: { nome:'Uze Multimarcas', cat:'Multimarcas', local:'Apodi - RN', insta:'https://www.instagram.com/uze_multimarcass', zap:'', loca:'' },
+  topi: { nome:'TopImpress Apodi', cat:'Impressão', local:'Apodi - RN', insta:'https://www.instagram.com/topimpressapodi', zap:'', loca:'' },
+  bike: { nome:'Box Lava Bikes', cat:'Lava Bikes', local:'Apodi - RN', insta:'https://www.instagram.com/boxlavabikes', zap:'', loca:'' },
+  idea: { nome:'Ideal Vidraçaria', cat:'Vidraçaria', local:'Apodi - RN', insta:'https://www.instagram.com/idealvidracariaa', zap:'', loca:'' },
 };
 
 
@@ -179,6 +208,7 @@ const catalogoDados = [
   { id:'mati', nome:'Pastelaria Matias', cat:'Pastelaria', tags:['pastel','pastelaria','pastel de carne','pastel de frango','pastel de queijo'], insta:'https://instagram.com/pastelaria_matias', zap:'https://wa.me/5584994242757', loca:'' },
   { id:'reil', nome:'Rei do Lanche', cat:'Lanchonete', tags:['lanche','hamburguer','x-burguer','hot dog','cachorro quente','sanduíche','batata frita','delivery de lanche'], insta:'https://instagram.com/oreidolanchepizzariaoficial', zap:'https://wa.me/5584991915772', loca:'https://maps.google.com/?cid=10914834443010279695' },
   { id:'dgus', nome:'Dgust', cat:'Restaurante', tags:['almoço','jantar','refeição','prato feito','comida variada','restaurante'], insta:'https://instagram.com/dgustapodi', zap:'https://wa.me/5584991547056', loca:'' },
+  { id:'sush', nome:'SushinCaza', cat:'Restaurante', tags:['sushi','comida japonesa','jantar','restaurante'], insta:'https://instagram.com/sushincaza', zap:'https://wa.me/55849', loca:'' },
 ];
 
 const mapaDeTermos = {
@@ -235,6 +265,13 @@ const mapaDeTermos = {
   'carne':        ['espe', 'chur', 'espi'],
   'frango':       ['espe', 'chur', 'espi', 'palh', 'case'],
   'arroz':        ['palh', 'case'],
+  'sushi':        ['sush'],
+  'comida japonesa': ['sush'],
+  'hamburguer':   ['reil', 'divi'],
+  'lanche':       ['reil', 'divi'],
+  'jantar':       ['aabb', 'dgus', 'sush', 'divi', 'titi'],
+  'restaurante':  ['palh', 'aabb', 'dgus', 'sush', 'divi', 'titi'],
+  'almoço':       ['palh', 'aabb', 'case', 'dgus', 'titi'],
   'feijão':       ['palh', 'case'],
 };
 
@@ -305,7 +342,7 @@ function catalogoBuscar() {
 
     const nomes = resultados.map(r => r.nome).join(', ');
     document.getElementById('cat-answer-text').innerHTML =
-      `Para "<strong>${input.value.trim()}</strong>", encontrei ${resultados.length} opções${resultados.length > 1 ? '' : ''} em Apodi: <strong>${nomes}</strong>.`;
+    `Para "<strong>${input.value.trim()}</strong>", encontrei ${resultados.length} ${resultados.length === 1 ? 'opção' : 'opções'} em Apodi: <strong>${nomes}</strong>.`;
     catMostrar('cat-answer');
 
     const motivosPorId = {
@@ -313,6 +350,9 @@ function catalogoBuscar() {
       'mati': 'Pastel de queijo, carne, frango e muito mais.',
       'espe': 'Espetos e carnes na brasa de qualidade.',
       'espi': 'Espetinhos variados direto da brasa.',
+      'sush': 'O melhor da culinária japonesa, com sushi e sashimi frescos.',
+      'divi': 'Hambúrgueres artesanais e lanches deliciosos para seu jantar.',
+      'titi': 'Comida caseira com sabor de casa, ideal para almoço e jantar.',
       'chur': 'Churrascaria completa com cortes nobres.',
       'para': 'Salgados frescos: coxinha, risole, esfirra e mais.',
       'dssa': 'Salgados, bolos e doces, inclusive sob encomenda.',
